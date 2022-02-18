@@ -344,7 +344,7 @@ button[type="submit"] {
 }
 
 /* Media Query */
-@media(min-width: 992px){
+@media(min-width: 992px) {
     .center-form {
         padding-top: 30px;
         min-height: 240px;
