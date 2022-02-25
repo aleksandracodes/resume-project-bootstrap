@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
+body {
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    background-color: #525252;
+    color: #555555;
+}
+
 
 /* Colors */
 .bg-color-name-title {
@@ -33,6 +40,15 @@
 .ui-menu-color-download {
     background-color: #525252;
 }
+
+.ui-menu-color-github {
+    background-color: #1c4a6c;
+}
+
+.ui-menu-color-interests {
+    background-color: #e74c3c;
+}
+
 
 /* Special paddings/margins/text */
 h1, h2, h3, h4 {
@@ -70,6 +86,7 @@ h1, h2, h3, h4 {
     margin: 25px 0 40px;
 
 }
+
 
 /* Heading */
 header {
